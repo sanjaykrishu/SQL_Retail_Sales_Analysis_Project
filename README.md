@@ -1,4 +1,5 @@
 Retail Sales Data Analysis – SQL Project Report
+
 1. Project Overview
 The aim of this project is to analyze retail sales data stored in a SQL database, perform data cleaning, and generate insights through various SQL queries. The dataset contains transaction-level sales records including details like date, time, customer demographics, product category, and sales amount.
 
